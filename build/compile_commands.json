@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/numbe/OneDrive/Documents/C++ coding/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tracker.dir/includes_CXX.rsp -g -o CMakeFiles\\tracker.dir\\src\\Main.cpp.obj -c \"C:\\Users\\numbe\\OneDrive\\Documents\\C++ coding\\src\\Main.cpp\"",
+  "file": "C:/Users/numbe/OneDrive/Documents/C++ coding/src/Main.cpp",
+  "output": "CMakeFiles/tracker.dir/src/Main.cpp.obj"
+},
+{
+  "directory": "C:/Users/numbe/OneDrive/Documents/C++ coding/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/tracker.dir/includes_CXX.rsp -g -o CMakeFiles\\tracker.dir\\src\\model.cpp.obj -c \"C:\\Users\\numbe\\OneDrive\\Documents\\C++ coding\\src\\model.cpp\"",
+  "file": "C:/Users/numbe/OneDrive/Documents/C++ coding/src/model.cpp",
+  "output": "CMakeFiles/tracker.dir/src/model.cpp.obj"
+}
+]

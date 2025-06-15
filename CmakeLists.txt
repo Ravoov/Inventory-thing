@@ -1,0 +1,4 @@
+CMAKE_MINIMUM_REQUIRED (VERSION 3.10)
+Project(tracker)
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+add_executable(tracker "${CMAKE_CURRENT_SOURCE_DIR}/src/Main.cpp" "${CMAKE_CURRENT_SOURCE_DIR}/src/model.cpp" )

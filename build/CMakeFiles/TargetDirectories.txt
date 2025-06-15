@@ -1,0 +1,3 @@
+C:/Users/numbe/OneDrive/Documents/C++ coding/build/CMakeFiles/tracker.dir
+C:/Users/numbe/OneDrive/Documents/C++ coding/build/CMakeFiles/edit_cache.dir
+C:/Users/numbe/OneDrive/Documents/C++ coding/build/CMakeFiles/rebuild_cache.dir
